@@ -82,7 +82,7 @@
     "uppy.io": "file:website"
   },
   "devDependencies": {
-    "@babel/cli": "7.10.5",
+    "@babel/cli": "5.8.38",
     "@babel/core": "7.11.1",
     "@babel/eslint-parser": "7.11.3",
     "@babel/eslint-plugin": "7.11.3",
