@@ -199,7 +199,7 @@
     "tsd": "^0.11.0",
     "tsify": "5.0.1",
     "tus-node-server": "0.3.2",
-    "typescript": "3.7.5",
+    "typescript": "0.1.7",
     "verdaccio": "^4.8.0",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.11",
