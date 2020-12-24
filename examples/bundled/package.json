@@ -1,7 +1,7 @@
 {
   "name": "@uppy-example/bundled",
   "dependencies": {
-    "@babel/core": "^7.4.4",
+    "@babel/core": "5.8.38",
     "@uppy/core": "file:../../packages/@uppy/core",
     "@uppy/dashboard": "file:../../packages/@uppy/dashboard",
     "@uppy/google-drive": "file:../../packages/@uppy/google-drive",
