@@ -1,4 +1,4 @@
-FROM node:10.21.0-alpine
+FROM node:10.23.2-alpine
 
 COPY package.json /app/package.json
 
